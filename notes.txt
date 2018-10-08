@@ -1,0 +1,8 @@
+A faire:
+
+Lancer la création du drone sur l'imprimante 3D.
+
+Commander les moteurs
+
+Créer le code de commande des moteurs.
+Ajouter une gestion par thread sous la Rapsberry PI pour ne pas surcharger le processeur.
