@@ -9,10 +9,12 @@
 
 int main (void)
 {
-	system('COLOR AF');
+	system("COLOR AF");
 	
+	system("cls");
+	system("clear");
 	
-	system('PAUSE');
+	system("PAUSE");
 	
 	return 0;
 }
